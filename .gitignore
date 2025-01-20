@@ -140,7 +140,7 @@ checklink/cookies.txt
 .gitconfig
 
 
-
+exp/*
 old/*
 *_dev*
 *.npy
@@ -149,7 +149,7 @@ old/*
 *.ts
 *.tsf
 *.arff
-#*.pth
+# *.pth
 *.pkl
 *.txt
 *.jpg
@@ -168,3 +168,12 @@ tmp/
 pythonenv*/
 *.tgz
 token
+_docs/
+_proc/
+_docs/
+sidebar.yml
+token
+token
+*.pkg
+new.*
+old.*
